@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Run the starbound server
+cd /server/starbound/linux
+./starbound_server
